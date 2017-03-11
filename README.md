@@ -10,6 +10,8 @@ Top job search sites from around the web.
 - https://www.linkedin.com
 - https://www.indeed.com
 - https://www.glassdoor.ca
+- https://www.infopressejobs.com
+- https://www.jawb.io/
 
 Facebook Groups
 - https://www.facebook.com/groups/montreal.startups.jobs/
